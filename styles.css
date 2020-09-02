@@ -1,0 +1,156 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+body {
+  text-align:center;
+    font-family: 'Noto Serif', serif;
+}
+hr {
+  border-color: #004a2f;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+h2 {
+  font-family:  'Liu Jian Mao Cao', cursive;
+}
+/* Header */
+.Header{
+  background-color: #304852;
+  text-align: center;
+  width:100%;
+}
+.Banner{
+  width:25%;
+  padding: 2% 0;
+}
+.nav-link {
+  font-family: 'Noto Serif', serif;
+  font-size: 1rem;
+}
+
+/*About Me*/
+
+.greeting {
+  padding: 7% 0;
+  background-color: #e0ece4;
+  color: #304852;
+  text-align: center;
+}
+  .big-heading {
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-left: 10%;
+  }
+  .heading-p{
+  padding: 7% 0 0 10%;
+    text-align: center;
+  }
+  .profile-image {
+    border-radius: 100%;
+    width: 75%;
+    border-style: dotted;
+    border-color: #5f818a;
+    border-width: 5px;
+    padding: 8px;
+  }
+
+  /*Interests*/
+  #interests {
+    background-color: #5f818a;
+    padding: 10% 0 5% 0;
+    text-align: center;
+    color: #e0ece4;
+  }
+  .int {margin: 7% 15%;position: relative;}
+  .first-exp-logo {width:35%; float:left; margin-right:70px;border-radius: 100%;
+    border-style: dotted;
+    border-color: #e0ece4;
+    border-width: 3px;
+    padding: 8px;
+  }
+  .second-exp-logo {width:35%;float:right; margin-left: 70px;border-radius: 100%;
+    border-style: dotted;
+    border-color: #e0ece4;
+    border-width: 3px;
+    padding: 8px;
+  }
+  .third-exp-logo {width:35%;float:left; margin-right: 70px; border-radius: 100%;
+    border-style: dotted;
+    border-color: #e0ece4;
+    border-width: 3px;
+    padding: 8px;
+  }
+  .expertise-row {text-align:left; line-height: 2; display: inline-block;}
+
+  .bottom-container {
+    background-color: #304852;
+    padding: 50px 0 20px;
+        color: #e0ece4;
+  }
+  .Contact-msg {
+    padding-bottom: 40px;
+  }
+  .copyright {
+    font-size: 0.75rem;
+    padding: 40px 0;
+  }
+  .footer-link {
+      padding: 10px 20px 10px 20px;
+      margin: 0 10px
+  }
+
+  /*Affiliations*/
+  .affiliations {
+    background-color: #e0ece4;
+    color: #304852;
+      padding-bottom: 10%;
+  }
+.afftitle {
+    font-family: 'Liu Jian Mao Cao', cursive;
+    padding: 3% 0;
+  }
+
+
+  /*Research*/
+  .pubs {
+    background-color: #e0ece4;
+    color: #304852;
+    padding-bottom: 10%;
+}
+
+.pubtitle {
+  font-family: 'Liu Jian Mao Cao', cursive;
+  padding: 3% 0;
+}
+
+.pubtext {
+  text-align: left;
+font-family: 'Noto Serif', serif;
+padding: 0 7%;
+}
+/*Consulting*/
+.consult {
+  background-color: #e0ece4;
+  color: #304852;
+  padding: 5% 0 10%;
+}
+.contitle {
+  font-size: 1.75rem;
+  margin: 5% 7% 0;
+}
+.date {
+  font-size: 1.5rem;
+}
+.list {
+  text-align: left;
+  margin: 0 10%;
+}
