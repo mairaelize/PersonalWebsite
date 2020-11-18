@@ -19,7 +19,7 @@ hr {
   margin-bottom: 5%;
 }
 h2 {
-  font-family:  'Liu Jian Mao Cao', cursive;
+  font-family:  'Noto Serif', serif;
 }
 /* Header */
 .Header{
@@ -45,7 +45,7 @@ h2 {
   text-align: center;
 }
   .big-heading {
-    font-family: 'Liu Jian Mao Cao', cursive;
+    font-family: 'Noto Serif', serif;
     font-size: 3.5rem;
     line-height: 1.5;
     padding-left: 10%;
@@ -115,7 +115,7 @@ h2 {
       padding-bottom: 10%;
   }
 .afftitle {
-    font-family: 'Liu Jian Mao Cao', cursive;
+    font-family: 'Noto Serif', serif;
     padding: 3% 0;
   }
 
@@ -128,7 +128,7 @@ h2 {
 }
 
 .pubtitle {
-  font-family: 'Liu Jian Mao Cao', cursive;
+  font-family: 'Noto Serif', serif;
   padding: 3% 0;
 }
 
