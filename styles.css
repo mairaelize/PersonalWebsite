@@ -23,7 +23,8 @@ hr.Rhr {
   border-style: dotted none none;
   border-width: 5px;
   width: 20%;
-  margin: 3px 0px;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 h2 {
   font-family:  'Noto Serif', serif;
