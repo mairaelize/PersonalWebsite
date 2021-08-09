@@ -56,10 +56,13 @@ h4 {margin-bottom: 20px}
   color: #304852;
   text-align: center;
 }
-.hello{font-family: 'WindSong', cursive;}
+.hello{font-family: 'WindSong', cursive;    
+    font-size: 4rem;
+    line-height: 1.5;
+    padding-left: 10%;}
   .big-heading {
     font-family: 'Noto Serif', serif;
-    font-size: 3.5rem;
+    font-size: 3rem;
     line-height: 1.5;
     padding-left: 10%;
   }
