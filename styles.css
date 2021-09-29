@@ -152,6 +152,12 @@ ul {
   padding: 3% 0;
 }
 
+
+.pubquote {
+  font-family: 'Noto Serif', serif;
+  padding: 7% 20%;
+}
+
 .pubtext {
   text-align: left;
 font-family: 'Noto Serif', serif;
