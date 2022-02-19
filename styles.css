@@ -164,6 +164,14 @@ ul {
 font-family: 'Noto Serif', serif;
 padding: 0 7%;
 }
+
+.subtext {
+  text-align: left;
+font-family: 'Noto Serif', serif;
+padding: 0 10%;
+    font-style: italic;
+}
+
 /*Consulting*/
 .consult {
   background-color: #e0ece4;
