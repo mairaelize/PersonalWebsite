@@ -180,7 +180,7 @@ padding: 0 10%;
 .consult {
   background-color: #e0ece4;
   color: #304852;
-  padding: 5% 0 10%;
+    padding-bottom: 10%;
 }
 .contitle {
   font-size: 1.75rem;
